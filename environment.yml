@@ -1,0 +1,11 @@
+name: climate-change-analysis
+channels:
+    - conda-forge
+    - bioconda
+    - nodefaults
+dependencies:
+    - python
+    - numpy
+    - pandas
+    - matplotlib
+    - scipy
