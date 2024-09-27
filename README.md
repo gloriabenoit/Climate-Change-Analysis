@@ -7,6 +7,7 @@ This project aims to quantify and characterize climate change, by finding data s
 The project is being carried out in two stages: analysis of atmospheric CO2, followed by analysis of temperature trends.
 
 This was done with my Python teacher, Pierre Poulain, who has made a repository of his own following our collaboration.
+
 [![CO2-concentration](https://github-readme-stats.vercel.app/api/pin/?username=pierrepo&repo=CO2-concentration)](https://github.com/pierrepo/CO2-concentration)
 
 ## Setup
