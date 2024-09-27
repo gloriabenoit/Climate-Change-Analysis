@@ -8,7 +8,7 @@ The project is being carried out in two stages: analysis of atmospheric CO2, fol
 
 This was done with my Python teacher, Pierre Poulain, who has made a repository of his own following our collaboration.
 
-[![CO2-concentration](https://github-readme-stats.vercel.app/api/pin/?username=pierrepo&repo=CO2-concentration)](https://github.com/pierrepo/CO2-concentration)
+[![CO2-concentration](https://github-readme-stats.vercel.app/api/pin/?username=pierrepo&repo=CO2-concentration&show_owner=true)](https://github.com/pierrepo/CO2-concentration)
 
 ## Setup
 
